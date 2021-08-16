@@ -1,7 +1,7 @@
 # Daily Jive Frontend
 Daily Jive is user generated discussion application like Reddit. Frontend was built with React and components styled with [Semantic UI]( https://react.semantic-ui.com/). To see the Sinatra backend [click here]( https://github.com/phsueh/daily-jive-backend). 
 
-![landing-page](/public/landing-page.png)
+![landing-page](/daily-jive/public/landing-page.png)
 
 ## Features
 * Users can post URL and image blocks
