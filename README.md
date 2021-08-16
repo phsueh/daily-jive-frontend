@@ -20,5 +20,5 @@ npm install
 ```
 npm start
 ```
-## Inspiration 
-## Licensing, Feedback, and Questions 
+<!-- ## Inspiration 
+## Licensing, Feedback, and Questions  -->
