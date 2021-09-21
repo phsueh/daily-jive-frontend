@@ -4,6 +4,7 @@ Daily Jive is user generated discussion application like Reddit. Frontend was bu
 ![landing-page](daily-jive/public/land-page.png)
 
 ## Features
+* See demo [here](https://youtu.be/qrp9g_O0Nh0)
 * Users can post URL and image blocks
 * Users can like, dislike, and favorite posts
 * Users can edit and delete posts
